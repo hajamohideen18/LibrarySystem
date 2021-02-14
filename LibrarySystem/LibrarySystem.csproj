@@ -73,6 +73,7 @@
     <Content Include="BookIssue.aspx" />
     <Content Include="bookreport.aspx" />
     <Content Include="BookReturn.aspx" />
+    <Content Include="Databse Backup\LB.sql" />
     <Content Include="Default.aspx" />
     <Content Include="Home.aspx" />
     <Content Include="img\dlibrary.png" />
@@ -339,6 +340,7 @@
       <DependentUpon>DS_STUDENT.xsd</DependentUpon>
     </Content>
     <Content Include="MasterPage.Master" />
+    <Content Include="Databse Backup\LibrarySystem.bak" />
     <None Include="packages.config" />
     <Content Include="Student_Page\MasterPage.Master" />
     <None Include="Web.Debug.config">
